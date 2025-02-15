@@ -88,5 +88,8 @@ multi_line_output = 3
 profile = "black"
 skip_glob = ["docs/*"]
 
+[tool.poetry.dependencies]
+furo = "^2021.5.1"
+
 
 
